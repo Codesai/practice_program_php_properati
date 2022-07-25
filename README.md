@@ -9,3 +9,13 @@ Run before at:
 Currently being run at:
 
 * Audiense, Properati.
+
+
+To run docker and get all the dependencies the first time run the following command in the folder of the kata you are doing:
+
+> make build
+
+To run the tests run the following command in the folder of the kata you are doing:
+
+> make test
+
