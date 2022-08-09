@@ -19,6 +19,10 @@ To run the tests run the following command in the folder of the kata you are doi
 
 > make test
  
+To run the tests with coverage run the following command in the folder of the kata you are doing:
+
+> make coverage
+ 
 To run the mutation tests run the following command in the folder of the kata you are doing (more info: https://infection.github.io/guide):
 
 > make mutation-test

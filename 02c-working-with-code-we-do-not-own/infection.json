@@ -6,8 +6,8 @@
     ]
   },
   "logs": {
-    "text": "infection-reports/infection.log",
-    "html": "infection-reports/infection.html"
+    "text": "reports/mutation-test/infection.log",
+    "html": "reports/mutation-test/infection.html"
   },
   "mutators": {
     "@arithmetic": true,

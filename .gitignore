@@ -2,4 +2,4 @@ vendor
 composer.lock
 .phpunit*
 .idea
-infection-reports/
+reports/
