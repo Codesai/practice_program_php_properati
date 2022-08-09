@@ -18,4 +18,8 @@ To run docker and get all the dependencies the first time run the following comm
 To run the tests run the following command in the folder of the kata you are doing:
 
 > make test
+ 
+To run the mutation tests run the following command in the folder of the kata you are doing (more info: https://infection.github.io/guide):
+
+> make mutation-test
 
