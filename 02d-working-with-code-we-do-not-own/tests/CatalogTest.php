@@ -185,8 +185,8 @@ class CatalogTest extends TestCase
 
         $catalog->update();
 
-        $expectedBackstageItemZero = $this->createBackstageItem(-2, 0);
-        self::assertThat($backstageItemNegative, self::equalTo($expectedBackstageItemZero));
+        $expectedBackstageItemNegative = $this->createBackstageItem(-2, 0);
+        self::assertThat($backstageItemNegative, self::equalTo($expectedBackstageItemNegative));
         $expectedBackstageItemZero = $this->createBackstageItem(-1, 0);
         self::assertThat($backstageItemZero, self::equalTo($expectedBackstageItemZero));
     }
