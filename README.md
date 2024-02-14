@@ -4,12 +4,14 @@ Practice program to build up code skills through katas, readings and talks.
 
 Run before at:
 
-* Magento, Merkle (partially), Trovit, Mango (partially) and Properati
+* Magento, Merkle, Trovit, Mango, Properati and Genially.
 
 Currently being run at:
 
-* Audiense and Genially.
+* Audiense and Aida.
 
+
+## Technical details
 
 To run docker and get all the dependencies the first time run the following command in the folder of the kata you are doing:
 
